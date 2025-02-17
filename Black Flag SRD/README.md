@@ -17,4 +17,5 @@
 ## Supporting Web Tools
 
 - [Official Web Portal](https://bfrd.net/)
+- The BFRD is a source on [Open5e](https://open5e.com/)
 - [BFRD - Monsters](https://crhallberg.com/blackflag-srd/monsters.html)
